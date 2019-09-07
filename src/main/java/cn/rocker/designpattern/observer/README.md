@@ -1,0 +1,2 @@
+可以看到，使用guava实现观察者模式更优雅一点，只需一个注解@Subscribe就可以实现，
+而使用原生jdk提供的观察者接口Observer或者类Observable的话，就相对繁琐点
