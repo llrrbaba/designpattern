@@ -4,6 +4,8 @@ import com.google.common.eventbus.EventBus;
 import org.junit.Test;
 
 /**
+ * 测试类
+ *
  * @author rocker
  * @date 2019/09/07 13:10
  * @since V1.0
